@@ -2,6 +2,9 @@
 
 Quizi app
 
+![quizi app](https://user-images.githubusercontent.com/64004539/101979939-71a7b580-3c87-11eb-9b0c-b3053b29c59b.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
